@@ -1,6 +1,5 @@
 ---
-templateKey: 'product-page'
-path: /products
+templateKey: product-page
 title: Our Coffee
 image: /img/jumbotron.jpg
 heading: Great coffee with a conscience
@@ -98,5 +97,6 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
-testing: hello world!!!
+testing: hello world!!!123123123123123
 ---
+
