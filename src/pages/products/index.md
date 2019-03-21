@@ -98,4 +98,5 @@ pricing:
         - Unlimited varieties
       plan: Custom
       price: '??'
+testing: hello world!!!
 ---

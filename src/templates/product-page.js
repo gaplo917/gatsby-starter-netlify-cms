@@ -17,6 +17,7 @@ export const ProductPageTemplate = ({
   testimonials,
   fullImage,
   pricing,
+  testing
 }) => (
   <section className="section section--gradient">
     <div className="container">
@@ -43,7 +44,7 @@ export const ProductPageTemplate = ({
                     padding: '1rem',
                   }}
                 >
-                  {title}
+                  {title}{testing}
                 </h2>
               </div>
               <div className="columns">
@@ -130,6 +131,7 @@ ProductPageTemplate.propTypes = {
     description: PropTypes.string,
     plans: PropTypes.array,
   }),
+  testing: PropTypes.string
 }
 
 const ProductPage = ({ data }) => {
@@ -147,6 +149,7 @@ const ProductPage = ({ data }) => {
         testimonials={frontmatter.testimonials}
         fullImage={frontmatter.full_image}
         pricing={frontmatter.pricing}
+        testing={frontmatter.testing}
       />
     </Layout>
   )
@@ -166,6 +169,7 @@ export const productPageQuery = graphql`
   query ProductPage($id: String!) {
     markdownRemark(id: { eq: $id }) {
       frontmatter {
+        testing
         title
         image {
           childImageSharp {
