@@ -42,6 +42,7 @@ const ProductPagePreview = ({ entry, getAsset }) => {
         description: entry.getIn(['data', 'pricing', 'description']),
         plans: pricingPlans,
       }}
+      testing={entry.getIn(['data', 'testing'])}
     />
   )
 }
