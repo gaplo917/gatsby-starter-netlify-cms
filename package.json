@@ -41,6 +41,7 @@
     "start:lambda": "netlify-lambda serve src/lambda",
     "start": "run-p start:**",
     "build:app": "npm run clean && gatsby build",
+    "build4github:app": "npm run clean && gatsby build --prefix-paths",
     "build:lambda": "netlify-lambda build src/lambda",
     "build": "run-p build:**",
     "develop": "npm run clean && gatsby develop",
