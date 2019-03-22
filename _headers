@@ -8,69 +8,69 @@
   Cache-Control: public, max-age=31536000, immutable
 /sw.js
   Cache-Control: no-cache
-/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/about/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/blog/2019-03-21-hello-world/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/products/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/tags/flavor/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/tags/tasting/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/tags/brewing/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/tags/chemex/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/tags/jamaica/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/tags/green-beans/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/tags/hawaii-test-dev/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/404/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/blog/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/contact/examples/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/contact/file-upload/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/contact/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/contact/thanks/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/tags/
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
-/404.html
-  Link: </webpack-runtime-afeb1ac8949c57b73b36.js>; rel=preload; as=script
-  Link: </styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/about/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/blog/2016-12-17-making-sense-of-the-scaas-new-flavor-wheel/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/blog/2017-01-04-a-beginners-guide-to-brewing-with-chemex/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/blog/2017-01-04-just-in-small-batch-of-jamaican-blue-mountain-in-store-next-week/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/blog/2019-03-21-hello-world/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/products/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/tags/flavor/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/tags/tasting/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/tags/brewing/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/tags/chemex/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/tags/jamaica/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/tags/green-beans/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/tags/hawaii-test-dev/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/404/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/blog/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/contact/examples/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/contact/file-upload/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/contact/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/contact/thanks/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/tags/
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
+/gatsby-starter-netlify-cms/404.html
+  Link: </gatsby-starter-netlify-cms/webpack-runtime-11445eac210498e86bed.js>; rel=preload; as=script
+  Link: </gatsby-starter-netlify-cms/styles.a99fa960423187f75aef.css>; rel=preload; as=script
